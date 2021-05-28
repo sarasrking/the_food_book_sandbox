@@ -1,8 +1,8 @@
-##Hilton DoubleTree Cookies
+##Hilton DoubleTree Cookies##
 
 I made these for a gathering last weekend and they were SO good. Everyone begged for the recipe afterwards! Apparently, when you check in at a Hilton DoubleTree hotel (I don't make a habit of this), they give you a warm, fresh cookie and this is the recipe they use. 
 
-###Ingredients
+###Ingredients###
 
 Makes 26 cookies
 226 grams butter, softened (2 sticks)
@@ -19,7 +19,7 @@ Pinch cinnamon
 465 grams good quality chocolate chips 
 220 grams chopped walnuts 
 
-###Method
+###Method##
 
 Cream butter, sugar and brown sugar in the bowl of a stand mixer on medium speed for about 2 minutes. 
 
