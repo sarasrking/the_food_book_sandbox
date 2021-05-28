@@ -1,0 +1,20 @@
+# Table of contents
+
+* [The Food Book](README.md)
+* [Starters](starters/README.md)
+  * [Thai Pumpkin Soup](starters/starters-and-entrees.md)
+* [Pasta and rice](first-page/README.md)
+  * [Pesto Pasta](first-page/pesto-pasta.md)
+* [Vegan delights](vegan-delights.md)
+* [Mains](mains.md)
+* [Untitled](untitled-2/README.md)
+  * [Peregian Salad](untitled-2/peregian-salad.md)
+* [Tips and tricks](untitled-1.md)
+* [Desserts](untitled/README.md)
+  * [Raw Caramel Slice](untitled/raw-caramel-slice.md)
+  * [Lollie cake](untitled/lollie-cake.md)
+  * [Untitled](untitled/untitled.md)
+  * [Pavlova](untitled/pavlova.md)
+* [Little sweeties](little-sweeties.md)
+* [Notes](notes.md)
+
