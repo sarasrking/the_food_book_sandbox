@@ -1,4 +1,4 @@
-[cookie](https://github.com/sarasrking/the_food_book_sandbox/blob/main/.gitbook/assets/cookies.PNG?raw=true)
+![image](https://github.com/sarasrking/the_food_book_sandbox/blob/main/.gitbook/assets/cookies.PNG?raw=true)
 
 ## Hilton DoubleTree Cookies
 
