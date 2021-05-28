@@ -1,3 +1,5 @@
+[cookie](https://github.com/sarasrking/the_food_book_sandbox/blob/main/.gitbook/assets/cookies.PNG?raw=true)
+
 ## Hilton DoubleTree Cookies
 
 I made these for a gathering last weekend and they were SO good. Everyone begged for the recipe afterwards! Apparently, when you check in at a Hilton DoubleTree hotel (I don't make a habit of this), they give you a warm, fresh cookie and this is the recipe they use. 
