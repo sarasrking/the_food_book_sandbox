@@ -6,5 +6,3 @@ description: For the sweet tooth!
 
 {% file src="../.gitbook/assets/cake \(1\) \(1\).jpg" caption="cake" %}
 
-
-
