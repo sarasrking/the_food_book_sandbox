@@ -7,7 +7,7 @@
   * [Pesto Pasta](first-page/pesto-pasta.md)
 * [Vegan delights](vegan-delights.md)
 * [Mains](mains.md)
-* [Untitled](untitled-2/README.md)
+* [Salads](untitled-2/README.md)
   * [Peregian Salad](untitled-2/peregian-salad.md)
 * [Tips and tricks](untitled-1.md)
 * [Desserts](untitled/README.md)
