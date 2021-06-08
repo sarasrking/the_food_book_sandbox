@@ -6,6 +6,8 @@ description: >-
 
 # Rasberry Muffins
 
+![](../.gitbook/assets/rasberry-muffin.jpg)
+
 ## Ingredients
 
 * 2 cups SR FLour
