@@ -13,3 +13,6 @@ Recipes, cooking tips and anything food related
 [Make a suggestion](https://github.com/sarasrking/the_food_book_sandbox/issues){: .btn .btn-green }
 
 
+<button type="button" name="button" class="btn">Button element</button>
+
+<a href="https://github.com/sarasrking/the_food_book_sandbox/issues" class="btn btn-color-green btn-style-pill">Make a suggestion</a>
