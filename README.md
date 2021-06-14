@@ -10,4 +10,6 @@ Recipes, cooking tips and anything food related
 
 [Make a suggestion](https://github.com/sarasrking/the_food_book_sandbox/issues){: .btn }
 
+[Make a suggestion](https://github.com/sarasrking/the_food_book_sandbox/issues){: .btn .btn-green }
+
 
