@@ -18,3 +18,5 @@ Recipes, cooking tips and anything food related
 <a href="https://github.com/sarasrking/the_food_book_sandbox/issues" class="btn btn-color-green btn-style-pill">Make a suggestion</a>
 
 <a href="https://github.com/sarasrking/the_food_book_sandbox/issues" class="btn btn-color-pink btn-lg" id="btn_mdt_3.2">Make a suggestion</a>
+
+<a class="github-button" href="https://github.com/sarasrking/the_food_book_sandbox/issues" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-issue-opened" data-size="large" aria-label="Issue ntkme/github-buttons on GitHub">Make a suggestion</a>
