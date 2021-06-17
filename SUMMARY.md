@@ -17,7 +17,6 @@
   * [Cookies](desserts/cookies.md)
   * [Raspberry Muffins](desserts/untitled.md)
   * [Pavlova](desserts/pavlova.md)
-* [Little sweeties](little-sweeties/README.md)
-  * [Untitled](little-sweeties/untitled.md)
+* [Little sweeties](little-sweeties.md)
 * [Notes](notes.md)
 
