@@ -14,8 +14,10 @@
 * [Desserts](desserts/README.md)
   * [Raw Caramel Slice](desserts/raw-caramel-slice.md)
   * [Lollie cake](desserts/lollie-cake.md)
-  * [Rasberry Muffins](desserts/untitled.md)
+  * [Cookies](desserts/cookies.md)
+  * [Raspberry Muffins](desserts/untitled.md)
   * [Pavlova](desserts/pavlova.md)
-* [Little sweeties](little-sweeties.md)
+* [Little sweeties](little-sweeties/README.md)
+  * [Untitled](little-sweeties/untitled.md)
 * [Notes](notes.md)
 

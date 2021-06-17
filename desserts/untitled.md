@@ -4,7 +4,7 @@ description: >-
   food of cake.
 ---
 
-# Rasberry Muffins
+# Raspberry Muffins
 
 ![](../.gitbook/assets/rasberry-muffin.jpg)
 
