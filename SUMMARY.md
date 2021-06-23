@@ -17,7 +17,7 @@
   * [Pavlova](desserts/pavlova.md)
 * [Little sweeties](little-sweeties/README.md)
   * [Cookies](little-sweeties/cookies.md)
-  * [Test](test.md)
+  * [Test](little-sweeties/test.md)
 * [Tips and tricks](tips_and_tricks.md)
 * [Notes](notes.md)
 
