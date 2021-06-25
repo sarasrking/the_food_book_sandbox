@@ -55,3 +55,4 @@ Place the cacao, oil and rice malt syrup in a medium heatproof bowl over a sauce
 
 Remove from the tin and cut into bars to serve.
 
+You will soon discover if your preference is to have these straight from the freezer or if you let them come to room temperature first. As they rely on coconut oil (especially in the topping), they will start to become a little 'runny' or sticky as they approach room temperature, especially in warm weather. On the other hand, straight from the freezer sometimes means the flavour is a little overwhelmed by the chill of the slice. You will work out the best balance.
