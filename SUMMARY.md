@@ -5,6 +5,7 @@
   * [Thai Pumpkin Soup](starters/starters-and-entrees.md)
 * [Pasta and rice](pasta_and_rice/README.md)
   * [Pesto Pasta](pasta_and_rice/pesto-pasta.md)
+  * [One-pot red wine pasta with sage and walnuts](pasta_and_rice/one-pot-red-wine-pasta-with-sage-and-walnuts.md)
 * [Purely plant-based](vegan-delights/README.md)
   * [First recipe](vegan-delights/first-recipe.md)
 * [Mains](mains.md)
