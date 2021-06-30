@@ -15,7 +15,7 @@
   * [Lollie cake](desserts/lollie-cake.md)
   * [Raspberry Muffins](desserts/untitled.md)
   * [Pavlova](desserts/pavlova.md)
-  * [Chocolate coconut slice](/desserts/choc_coconut_slice.md)
+  * [Chocolate coconut slice](desserts/choc_coconut_slice.md)
 * [Little sweeties](little-sweeties/README.md)
   * [Cookies](little-sweeties/cookies.md)
   * [Test](little-sweeties/test.md)

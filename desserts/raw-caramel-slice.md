@@ -41,18 +41,19 @@ Thanks to [donnahay.com.au](https://www.donnahay.com.au/recipes/raw-caramel-slic
 
 ### Step one
 
-To make the almond base, line a 20cm square slice tin with non-stick baking paper. Place the almonds, coconut, dates and oil in a food processor. Process for 1–2 minutes or until the mixture resembles fine breadcrumbs. Using the back of a spoon, press the mixture into the base of the tin and refrigerate for 30 minutes or until set. 
+To make the almond base, line a 20cm square slice tin with non-stick baking paper. Place the almonds, coconut, dates and oil in a food processor. Process for 1–2 minutes or until the mixture resembles fine breadcrumbs. Using the back of a spoon, press the mixture into the base of the tin and refrigerate for 30 minutes or until set.
 
 ### Step two
 
-To make the date caramel, place the dates, almond butter, maple syrup, vanilla and salt in the cleaned food processor and process for 1–2 minutes or until smooth. Spread over the base and refrigerate until needed. 
+To make the date caramel, place the dates, almond butter, maple syrup, vanilla and salt in the cleaned food processor and process for 1–2 minutes or until smooth. Spread over the base and refrigerate until needed.
 
 ### Step three
 
-Place the cacao, oil and rice malt syrup in a medium heatproof bowl over a saucepan of simmering water \(the bowl shouldn’t touch the water\) and stir for 2–3 minutes or until smooth. Pour the cacao mixture over the caramel and refrigerate for 2 hours. Freeze for 30 minutes or until set. 
+Place the cacao, oil and rice malt syrup in a medium heatproof bowl over a saucepan of simmering water \(the bowl shouldn’t touch the water\) and stir for 2–3 minutes or until smooth. Pour the cacao mixture over the caramel and refrigerate for 2 hours. Freeze for 30 minutes or until set.
 
 ### Step four
 
 Remove from the tin and cut into bars to serve.
 
-You will soon discover if your preference is to have these straight from the freezer or if you let them come to room temperature first. As they rely on coconut oil (especially in the topping), they will start to become a little 'runny' or sticky as they approach room temperature, especially in warm weather. On the other hand, straight from the freezer sometimes means the flavour is a little overwhelmed by the chill of the slice. You will work out the best balance.
+You will soon discover if your preference is to have these straight from the freezer or if you let them come to room temperature first. As they rely on coconut oil \(especially in the topping\), they will start to become a little 'runny' or sticky as they approach room temperature, especially in warm weather. On the other hand, straight from the freezer sometimes means the flavour is a little overwhelmed by the chill of the slice. You will work out the best balance.
+

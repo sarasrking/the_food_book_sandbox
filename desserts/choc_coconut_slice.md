@@ -1,6 +1,6 @@
-# Choc coconut slice
+# Chocolate coconut slice
 
-<img src="https://bakeplaysmile.com/wp-content/uploads/2019/09/Chocolate-Coconut-4.jpg" alt="chocolate coconut slice arranged on a circluar tray" width="300">
+![chocolate coconut slice arranged on a circluar tray](https://bakeplaysmile.com/wp-content/uploads/2019/09/Chocolate-Coconut-4.jpg)
 
 So delicious, so crumbly, and so easy to make!
 
@@ -8,22 +8,22 @@ So delicious, so crumbly, and so easy to make!
 
 ### Cake base
 
-- 150g butter, melted and cooled
-- 1 cup brown sugar
-- 1 egg, lightly beaten
-- 1 tsp vanilla extract
-- 1/2 cup plain flour
-- 1/3 cup self-raising flour
-- 1/4 cocoa powder
-- 1/2 desiccated coconut
+* 150g butter, melted and cooled
+* 1 cup brown sugar
+* 1 egg, lightly beaten
+* 1 tsp vanilla extract
+* 1/2 cup plain flour
+* 1/3 cup self-raising flour
+* 1/4 cocoa powder
+* 1/2 desiccated coconut
 
 ### Icing
 
-- 1 1/2 cups icing sugar
-- 1/4 cup cocoa powder
-- 20g butter, finely chopped
-- 1 tbs boiling water
-- 2 tbs desiccated coconut (for sprinkling)
+* 1 1/2 cups icing sugar
+* 1/4 cup cocoa powder
+* 20g butter, finely chopped
+* 1 tbs boiling water
+* 2 tbs desiccated coconut \(for sprinkling\)
 
 ## Instructions
 
@@ -37,3 +37,4 @@ So delicious, so crumbly, and so easy to make!
 8. Sprinkle remaining coconut over slice
 
 Recipe from [Bake Play Smile](https://bakeplaysmile.com/easy-chocolate-coconut-slice/)
+
