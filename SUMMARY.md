@@ -10,6 +10,7 @@
   * [First recipe](vegan-delights/first-recipe.md)
 * [Mains](mains.md)
 * [Salads](salads/README.md)
+  * [Nom Nom's Creamy Onion Dressing](salads/nom-noms-creamy-onion-dressing.md)
   * [Peregian Salad](salads/peregian-salad.md)
 * [Desserts](desserts/README.md)
   * [Raw Caramel Slice](desserts/raw-caramel-slice.md)
