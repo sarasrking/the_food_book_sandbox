@@ -20,6 +20,7 @@
 * [Little sweeties](little-sweeties/README.md)
   * [Cookies](little-sweeties/cookies.md)
   * [Test](little-sweeties/test.md)
-* [Tips and tricks](tips_and_tricks.md)
+* [Tips and tricks](tips_and_tricks/README.md)
+  * [Broth](tips_and_tricks/broth.md)
 * [Notes](notes.md)
 
