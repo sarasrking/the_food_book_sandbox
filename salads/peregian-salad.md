@@ -4,11 +4,11 @@ description: I had this salad at Peregian beach (Sunshine Coast of Queensland)
 
 # Peregian Salad
 
-\(still working on this one!\)
+**Ingredients - not really sure of the proportions but guessing here, it would probably be a great meal/lunch to make with leftovers**
 
-chorizo sausage, sliced and sauteed
+1 chorizo sausage, sliced and sauteed
 
-feta
+ 50 grams feta
 
 chicken \(left over will do\)
 
@@ -19,4 +19,10 @@ sweet potato \(cubed and roasted\)
 1/2 Lebanese cucumber, sliced
 
 8 cherry tomatoes, halved
+
+**Method**
+
+wash your veggies and throw everything together with your favorite salad dressing  \(I personally like Michelle Tam's creamy onion and garlic dressing myself!\)
+
+
 
