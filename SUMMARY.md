@@ -8,6 +8,7 @@
   * [One-pot red wine pasta with sage and walnuts](pasta_and_rice/one-pot-red-wine-pasta-with-sage-and-walnuts.md)
 * [Purely plant-based](vegan-delights/README.md)
   * [First recipe](vegan-delights/first-recipe.md)
+  * [Plant pesto](vegan-delights/plant_pesto)
 * [Mains](mains.md)
 * [Salads](salads/README.md)
   * [Nom Nom's Creamy Onion Dressing](salads/nom-noms-creamy-onion-dressing.md)
