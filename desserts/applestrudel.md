@@ -24,3 +24,5 @@ Leave to cool to room temperature and dust
 From [BBC Food](https://www.bbc.co.uk/food/recipes/apple_strudel_24124)  
 Rick Stein's Long Weekends
 
+![](../.gitbook/assets/Apple_strudel.jpg)
+
