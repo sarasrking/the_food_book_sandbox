@@ -1,8 +1,0 @@
-# Zuchini Slice
-
-Zuchini Slice 
-
-
-
-
-

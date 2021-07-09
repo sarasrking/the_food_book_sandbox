@@ -9,7 +9,7 @@
 * [Purely plant-based](vegan-delights/README.md)
   * [First recipe](vegan-delights/first-recipe.md)
 * [Mains](mains/README.md)
-  * [Zuchini Slice](mains/untitled.md)
+  * [Zuchini Slice](mains/zuchini_slice.md)
 * [Salads](salads/README.md)
   * [Nom Nom's Creamy Onion Dressing](salads/nom-noms-creamy-onion-dressing.md)
   * [Peregian Salad](salads/peregian-salad.md)
