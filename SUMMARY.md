@@ -13,7 +13,7 @@
 * [Salads](salads/README.md)
   * [Nom Nom's Creamy Onion Dressing](salads/nom-noms-creamy-onion-dressing.md)
   * [Peregian Salad](salads/peregian-salad.md)
-  * [Vegetable and soba noodle salad with honey ginger cashews](salads/Vegetable-soba-noodle-salad.md)
+  * [Vegetable and soba noodle salad with honey ginger cashews](salads/Vegetable%20and%20soba%20noodle%20salad)
 * [Desserts](desserts/README.md)
   * [Raw Caramel Slice](desserts/raw-caramel-slice.md)
   * [Lollie cake](desserts/lollie-cake.md)
