@@ -1,4 +1,4 @@
 
-![CAUL Digital Dexterity logo](../.gitbook/assets/digitaldexterity.jpg)
+!(../.gitbook/assets/digitaldexterity.jpg)
 
 
