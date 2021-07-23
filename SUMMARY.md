@@ -26,5 +26,5 @@
 * [Tips and tricks](tips_and_tricks/README.md)
   * [Broth](tips_and_tricks/broth.md)
 * [Notes](notes.md)
-* [Style Test](style.md)
+* [Welcome](style.md)
 
