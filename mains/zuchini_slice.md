@@ -1,5 +1,5 @@
 # Zuchini Slice
- 
+
 ## Ingredients
 
 750g/1lb 10oz Bramley apples, peeled, cored, quartered and sliced  
@@ -11,7 +11,7 @@
 95g/3½oz butter  
 40g/1½oz white breadcrumbs  
 6 large sheets filo pastry  
-1 tbsp icing sugar  
+1 tbsp icing sugar
 
 ## Method
 
@@ -22,5 +22,4 @@
 5. Bake for 4045 minutes, until goldenbrown. Leave to cool to room temperature and dust with icing sugar. Slice and serve with cream, ice cream or custard.
 
 From [BBC Food](http://www.bbc.co.uk/food/recipes/apple_strudel_24124)
-
 
