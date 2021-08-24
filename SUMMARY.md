@@ -28,4 +28,5 @@
 * [Notes](notes.md)
 * [Welcome](style.md)
 * [Untitled](untitled.md)
+* [Code of conduct] (CODE_OF_CONDUCT.md)
 
