@@ -6,29 +6,28 @@ Welcome to our Digital Skills GitBook community! Here we foster a welcoming and 
 
 ## When contributing to this book, please do
 
-`:smile:` Use welcoming and inclusive language  
-`:smile:` Be respectful to different viewpoints and experiences  
-`:smile:` Gracefully accept constructive criticism  
-:smile: Focus on what is best for the community  
-:smile: Show courtesy and respect towards other members  
-:smile: Keep all interactions respectful and professional
+😊 Use welcoming and inclusive language  
+ 😊Be respectful to different viewpoints and experiences  
+ 😊Gracefully accept constructive criticism  
+ 😊Focus on what is best for the community  
+ 😊Show courtesy and respect towards other members  
+ 😊Keep all interactions respectful and professional
 
-### Examples of unacceptable behavior include:
+### Examples of unacceptable behaviour include:
 
-:unamused: Written or verbal comments which have the effect of excluding people on the basis of membership of any specific group  
-:unamused: Causing someone to fear for their safety, such as through stalking, following or intimidation  
-:unamused: Violent threats or language directed against another person  
-:unamused: The display of sexual or violent images  
-:unamused: Unwelcome sexual attention  
-:unamused: Nonconsensual or unwelcome physical contact  
-:unamused: Sustained disruption of talks, events or communications  
-:unamused: Insults or put-downs  
-:unamused: Sexist, racist, homophobic, ableist or exclusionary jokes  
-:unamused: Excessive swearing  
-:unamused: Incitement to violence, suicide or self-harm  
-:unamused: Continuing to intitiate interaction \(including photography or recording\) with someone after being asked to stop  
-:unamused: Publication of private communication wihout consent  
-:unamused: Other conduct which could reasonably be considered inappropriate in a professional setting
+ ☹ Written or verbal comments which have the effect of excluding people on the basis of membership of any specific group  
+ ☹Causing someone to fear for their safety, such as through stalking, following or intimidation  
+ ☹Violent threats or language directed against another person  
+ ☹The display of sexual or violent images  
+ ☹Unwelcome sexual attention or nonconsensual physical contact  
+ ☹Sustained disruption of talks, events or communications  
+ ☹Insults or put-downs  
+ ☹Sexist, racist, homophobic, ableist or exclusionary jokes  
+ ☹Excessive swearing  
+ ☹Incitement to violence, suicide or self-harm  
+ ☹Continuing to initiate interaction \(including photography or recording\) with someone after being asked to stop  
+ ☹Publication of private communication without consent  
+ ☹Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Scope
 
@@ -37,9 +36,11 @@ This Code of Conduct applies within all community spaces, and also applies when 
 ## What to do if you experience unacceptable behaviour
 
 Please let us know if you believe someone is violating the Code of Conduct via  
-[caul@caul.edu.au](mailto:caul@caul.edu.au) All complaints will be reviewed and investigated promptly and fairly.
+[caul@caul.edu.au](mailto:caul@caul.edu.au) 
 
-The Digital Skills GitBook admins are responsible for clarifying and enforcing our standards of acceptable behaviour and will take appropriate and fair corrective action in responce to any behaviour that they deem inappropriate, threatening, offensive or harmful. If someone engages in behaviour that violates this Code of Conduct, the Digital Skills GitBook admins may warn the offender, ask them to leave, or remove them from the platform. The Digital Skills GitBook admins have the right and responsibility to remove, edit or reject comments, commits, code, issues and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+All complaints will be reviewed and investigated promptly and fairly.
+
+The Digital Skills GitBook admins are responsible for clarifying and enforcing our standards of acceptable behaviour and will take appropriate and fair corrective action in response to any behaviour that they deem inappropriate, threatening, offensive or harmful. If someone engages in behaviour that violates this Code of Conduct, the Digital Skills GitBook admins may warn the offender, ask them to leave, or remove them from the platform. The Digital Skills GitBook admins have the right and responsibility to remove, edit or reject comments, commits, code, issues and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
 ## Attribution
 
