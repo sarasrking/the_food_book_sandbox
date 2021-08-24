@@ -11,32 +11,32 @@ respect this code and behave in an appropriate manner.
 
 ## When contributing to this book, please do
 
-:smile: Use welcoming and inclusive language  
-:smile: Be respectful to different viewpoints and experiences  
-:smile: Gracefully accept constructive criticism  
-:smile: Focus on what is best for the community  
-:smile: Show courtesy and respect towards other members  
-:smile: Keep all interactions respectful and professional  
+:smile:  Use welcoming and inclusive language  
+:smile:  Be respectful to different viewpoints and experiences  
+:smile:  Gracefully accept constructive criticism  
+:smile:  Focus on what is best for the community  
+:smile:  Show courtesy and respect towards other members  
+:smile:  Keep all interactions respectful and professional  
 
 ### Examples of unacceptable behavior include:
 
-:unamused: Written or verbal comments which have the effect of excluding people on the basis 
+:unamused:  Written or verbal comments which have the effect of excluding people on the basis 
 of membership of any specific group  
-:unamused: Causing someone to fear for their safety, such as through stalking, following 
+:unamused:  Causing someone to fear for their safety, such as through stalking, following 
 or intimidation  
-:unamused: Violent threats or language directed against another person  
-:unamused: The display of sexual or violent images  
-:unamused: Unwelcome sexual attention  
-:unamused: Nonconsensual or unwelcome physical contact  
-:unamused: Sustained disruption of talks, events or communications  
-:unamused: Insults or put-downs  
-:unamused: Sexist, racist, homophobic, ableist or exclusionary jokes  
-:unamused: Excessive swearing  
-:unamused: Incitement to violence, suicide or self-harm  
-:unamused: Continuing to intitiate interaction (including photography or recording) with someone
+:unamused:  Violent threats or language directed against another person  
+:unamused:  The display of sexual or violent images  
+:unamused:  Unwelcome sexual attention  
+:unamused:  Nonconsensual or unwelcome physical contact  
+:unamused:  Sustained disruption of talks, events or communications  
+:unamused:  Insults or put-downs  
+:unamused:  Sexist, racist, homophobic, ableist or exclusionary jokes  
+:unamused:  Excessive swearing  
+:unamused:  Incitement to violence, suicide or self-harm  
+:unamused:  Continuing to intitiate interaction (including photography or recording) with someone
 after being asked to stop  
-:unamused: Publication of private communication wihout consent  
-:unamused: Other conduct which could reasonably be considered inappropriate in a
+:unamused:  Publication of private communication wihout consent  
+:unamused:  Other conduct which could reasonably be considered inappropriate in a
   professional setting  
 
 ## Scope
@@ -50,7 +50,7 @@ representative at an online or offline event.
 ## What to do if you experience unacceptable behaviour
 
 Please let us know if you believe someone is violating the Code of Conduct via  
- <80937788+emmac123@users.noreply.github.com>  
+ <caul@caul.edu.au> 
 All complaints will be reviewed and investigated promptly and fairly.
 
 The Digital Skills GitBook admins are responsible for clarifying and enforcing our 
