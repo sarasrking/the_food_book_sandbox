@@ -6,9 +6,9 @@ Welcome to our Digital Skills GitBook community! Here we foster a welcoming and 
 
 ## When contributing to this book, please do
 
-:smile: Use welcoming and inclusive language  
-:smile: Be respectful to different viewpoints and experiences  
-:smile: Gracefully accept constructive criticism  
+`:smile:` Use welcoming and inclusive language  
+`:smile:` Be respectful to different viewpoints and experiences  
+`:smile:` Gracefully accept constructive criticism  
 :smile: Focus on what is best for the community  
 :smile: Show courtesy and respect towards other members  
 :smile: Keep all interactions respectful and professional
