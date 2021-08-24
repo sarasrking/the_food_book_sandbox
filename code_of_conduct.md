@@ -6,7 +6,7 @@ Welcome to our Digital Skills GitBook community! Here we foster a welcoming and 
 
 ## When contributing to this book, please do
 
-😊 Use welcoming and inclusive language  
+ 😊 Use welcoming and inclusive language  
  😊Be respectful to different viewpoints and experiences  
  😊Gracefully accept constructive criticism  
  😊Focus on what is best for the community  
