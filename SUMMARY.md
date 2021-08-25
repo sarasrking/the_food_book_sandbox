@@ -29,5 +29,5 @@
 * [Welcome](style.md)
 * [Untitled](untitled.md)
 * [Code of conduct](code_of_conduct.md)
-* [Glossary](glossary.md)
+* [Glossary](Glossary.md)
 
