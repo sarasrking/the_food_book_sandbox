@@ -33,7 +33,7 @@
 ## O
 
 ## P
-- **pull request.** A pull request is when you request changes that you have made be made to a repository be merged into the original repository.
+- **<a name="pullrequest"></a>pull request.** A pull request is when you request changes that you have made be made to a repository be merged into the original repository.
 
 ## Q
 
