@@ -1,6 +1,6 @@
 # Cookies
 
-I made these for a gathering last weekend and they were SO good. Everyone begged for the recipe afterwards! Apparently, when you check in at a Hilton DoubleTree hotel \(I don't make a habit of this\), they give you a warm, fresh cookie and this is the recipe they use. [Test bookmark](http://...#abcd)
+I made these for a gathering last weekend and they were SO good. Everyone begged for the recipe afterwards! Apparently, when you check in at a Hilton DoubleTree hotel \(I don't make a habit of this\), they give you a warm, fresh cookie and this is the recipe they use. [Test bookmark](https://github.com/sarasrking/the_food_book_sandbox/blob/master/Glossary.md#pullrequest)
 
 ## Ingredients
 
